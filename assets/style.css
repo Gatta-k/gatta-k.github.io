@@ -5,8 +5,7 @@ body {
   /* Hero Section */
   
   #Hero-Section {
-    background-image: url(/desafio-github/assets/img/depositphotos_49017545-stock-photo-detox-smoothie-before-running-workout.jpg);
-    background-repeat: no-repeat;
+    background-image: url(/assets/imgs/background.webp);
     background-size: cover;
     background-position: left;
   }
