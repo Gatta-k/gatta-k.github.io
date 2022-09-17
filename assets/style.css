@@ -6,6 +6,22 @@ body {
 .navbar {
     background-color: #000000;
 }
+.display-3 {
+    color: rgb(102, 15, 153);
+}
+
+.foto1{
+    margin: 0;
+    width: 500px;
+    height: 500px;
+    border: 10px inset #cb43f1;
+    border-radius: 50%;
+}
+
+.my-4{
+    color: rgb(102, 15, 153);
+}
+
 .nav-link {
     color:rgb(102, 15, 153);
     font-size: 30px;
@@ -22,9 +38,10 @@ body {
 
   #nombre {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(102, 15, 153);
-    font-weight: 900;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
   }
 
  
@@ -35,6 +52,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+  }
+
+  .my-5{
+    font-weight: 400px;
+    font-size: 40px;
+
   }
   #Mis-trabajos {
     background-color: rgb(30, 13, 40);
@@ -57,7 +80,7 @@ body {
     }
   
     .navbar-brand{
-      width: 100px;
+      width: 200px;
     }
   
   }
